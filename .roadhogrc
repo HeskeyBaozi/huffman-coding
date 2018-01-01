@@ -1,3 +1,4 @@
 {
-  "entry": "./src/entry.tsx"
+  "entry": "./src/entry.tsx",
+  "publicPath": "/huffman-coding/"
 }
