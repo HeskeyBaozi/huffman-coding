@@ -5,7 +5,8 @@
   "author": "HeZhiyu",
   "license": "MIT",
   "scripts": {
-    "start": "roadhog server"
+    "start": "roadhog server",
+    "build": "roadhog build"
   },
   "devDependencies": {
     "@types/react": "^16.0.31",
